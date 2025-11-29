@@ -26,7 +26,7 @@ A modern e-commerce platform built with Next.js, providing seamless shopping exp
 ## 📦 Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/kartikkes02/FUTURE_FS_02.git
+   git clone https://github.com/kartikkes02/shop_ease_ecommerce.git
    ```
 2. Navigate to project directory
    ```bash
