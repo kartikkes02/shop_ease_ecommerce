@@ -30,7 +30,7 @@ A modern e-commerce platform built with Next.js, providing seamless shopping exp
    ```
 2. Navigate to project directory
    ```bash
-   cd FUTURE_FS_02
+   cd shop_ease_ecommerce
    ```
 3. Install dependencies:
     ```bash
