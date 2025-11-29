@@ -43,7 +43,7 @@ A modern e-commerce platform built with Next.js, providing seamless shopping exp
    ```
 📂 Project Structure
    ```bash
-   FUTURE_FS_02/
+   shop_ease_ecommerce/
 ├── public/            # Static files
 ├── src/
 │   ├── app/           # Next.js app router
