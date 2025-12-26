@@ -1,4 +1,4 @@
-# 🛍️ ShopEase - E-Commerce Platform
+# 🛍️ ShopEase - E-Commerce Platform 
 
 ![ShopEase Screenshot](./public/assets/ShopEase.jpg)
 
